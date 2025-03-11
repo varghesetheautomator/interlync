@@ -1,4 +1,4 @@
-# Interlynk UI Automation Testing
+# Interlync UI Automation Testing
 
 ## Overview
 
